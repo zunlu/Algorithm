@@ -31,3 +31,5 @@ class Solution:
                 if(suma[j]-suma[i]+a[i] == b[i]+b[j]):
                     total +=1
         return total
+
+  #时间复杂度高，没通过测试
